@@ -63,7 +63,7 @@ public class MyVector {
         return true;
       }
     }
-    return false
+    return false;
   }
 
   public void trimToSize() {
