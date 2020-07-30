@@ -8,6 +8,5 @@ public class IteratorEx2 {
     ArrayList copy1 = new ArrayList(10);
     ArrayList copy2 = new ArrayList(10);
 
-    for(int i = 0)
   }
 }
